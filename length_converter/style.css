@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    background: #f0f0f0; /* 배경색 추가 */
+}
+
+.calculator {
+    display: flex;
+    justify-content: center;
+}
+
+
+input {
+    height: 30px;
+    font-size: 16px; /* 입력 바와 버튼의 글꼴 크기 조정 */
+    border: 2px solid #333;
+    border-radius: 10px;
+    width: 200px;
+}
+
+
+
+/* 나머지 스타일링을 원하면 여기에 추가 */
